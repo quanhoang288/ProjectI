@@ -9,7 +9,7 @@ from flask import Flask, render_template, request, redirect, url_for
 from vncorenlp import VnCoreNLP
 from nltk.translate.bleu_score import sentence_bleu, modified_precision, brevity_penalty
 from nltk.translate.nist_score import sentence_nist
-from test import translate_doc
+from trans import translate_doc
 from tqdm import tqdm
 from underthesea import sent_tokenize
 from khmernltk import sentence_tokenize
