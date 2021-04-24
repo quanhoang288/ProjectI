@@ -36,3 +36,14 @@ Navigate to src folder and run the following command to start the application:
 Note: If there is any error regarding Chrome driver version mismatch, make sure to install the driver version compatible with the Chrome version installed on your computer
 
 Open up your browser and type the url: http://127.0.0.1:5000/ to start using the service
+
+## Demo
+Add two Vietnamese and Khmer Sentence files to extract matches or simply type in the content
+
+
+![UI](https://user-images.githubusercontent.com/47912719/115950018-e7a80d00-a502-11eb-9d11-349052d02f07.png)
+
+It will take a while to process and extract matches and the output will have the following format:
+
+
+![result](https://user-images.githubusercontent.com/47912719/115950081-55eccf80-a503-11eb-984c-f98802f5ee46.png)
